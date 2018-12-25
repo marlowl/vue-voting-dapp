@@ -8,7 +8,7 @@ This project was generated with [vue-cli](https://github.com/vuejs/vue-cli) vers
 
 An simple Vue dApp with a voting mechanism build in the smart contract
 
-## Demo
+### Demo
 Vote for a selected candidate
 
 ![](screenshot.gif)
@@ -19,7 +19,7 @@ Vote for a selected candidate
 3. `cd vue`
 4. `npm install`
 
-## Install and run ganache-cli
+### Install and run ganache-cli
 1. `npm install -g ganache-cli`
 2.  Simply start ganache with `ganache-cli -p 7545`
 
@@ -35,12 +35,13 @@ Vote for a selected candidate
 1. To compile your contracts `truffle compile`
 2. To deploy those contracts to the network `truffle migrate --network kovan`
 
-## Start dev server
+### Start dev server
 1. `cd vue`
 2. `npm run serve`
 
-## Technologies & Languages Used
+### Technologies & Languages Used
 1. Vue (Typescript/Javascript)
 2. Truffle (Solidity)
+3. Ganache
 
 
