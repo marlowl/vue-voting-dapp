@@ -8,7 +8,7 @@ This project was generated with [vue-cli](https://github.com/vuejs/vue-cli) vers
 
 An simple Vue dApp with a voting mechanism build in the smart contract
 
-### Demo
+# Demo
 Vote for a selected candidate
 
 ![](screenshot.gif)
