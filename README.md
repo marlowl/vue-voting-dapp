@@ -19,6 +19,10 @@ Vote for a selected candidate
 3. `cd vue`
 4. `npm install`
 
+## Install and run ganache-cli
+1. `npm install -g ganache-cli`
+2.  Simply start ganache with `ganache-cli -p 7545`
+
 ### Update .env files
 1. In the root:
 `MNEMONIC= "your ganache MNEMONIC"`
