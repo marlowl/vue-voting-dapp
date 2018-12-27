@@ -15,7 +15,7 @@
 <script lang="ts">
 import { Vue, Component, Prop, Watch } from "vue-property-decorator";
 import Web3 from "web3";
-const Election = require("../../../build/contracts/Election.json");
+const Election = require("../../build/contracts/Election.json");
 
 @Component
 export default class HelloWorld extends Vue {
