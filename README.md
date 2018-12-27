@@ -1,4 +1,4 @@
-# Vue Truffle Starter dApp
+# Vue Voting dApp
 
 <p align="center">		
   <img src="https://cdn-images-1.medium.com/max/1200/1*F1LChP2_EbsSPh4OPaJ7xA.png">		
@@ -6,11 +6,9 @@
  
 This project was generated with [vue-cli](https://github.com/vuejs/vue-cli) version 3.2.1
 
-An Vue [truffle](https://github.com/trufflesuite/truffle) starter dApp. Write, compile & deploy smart contracts for Ethereum.
+An Vue [truffle](https://github.com/trufflesuite/truffle) voting mechanism dApp
 
 # Demo
-Update a value of a smart contract with your Ethereum wallet address
-
 ![](screenshot.gif)
 
 ### Technologies & Languages Used
