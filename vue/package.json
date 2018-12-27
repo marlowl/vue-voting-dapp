@@ -10,6 +10,7 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "@types/web3": "^1.0.14",
     "buefy": "^0.7.1",
     "dotenv": "^6.2.0",
     "register-service-worker": "^1.5.2",
