@@ -1,7 +1,7 @@
 # Vue Voting dApp
 
 <p align="center">		
-  <img src="https://cdn-images-1.medium.com/max/1200/1*F1LChP2_EbsSPh4OPaJ7xA.png">		
+  <img src="https://github.com/marlowl/vue-truffle-starter-dapp/blob/master/logo.PNG">		
 </p>
  
 This project was generated with [vue-cli](https://github.com/vuejs/vue-cli) version 3.2.1
