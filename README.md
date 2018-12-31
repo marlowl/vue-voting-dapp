@@ -18,7 +18,7 @@ Sample contract is deployed on the Kovan testnetwork
 MetaMask and Infura account are both required for this project to work!
 
 ### MetaMask
-I would like to refer to this [article](https://blog.bankex.org/how-to-buy-ethereum-using-metamask-ccea0703daec) for a simple tutorial on how to setup MetaMask and get some free test Ether on your Ropsten account! After that you have your ETH address you need for the .env file
+I would like to refer to this [article](https://medium.com/singapore-blockchain-dapps/how-to-get-testcoin-from-ethereum-kovan-testnetwork-85c466d5b869) for a simple tutorial on how to setup MetaMask and get some free test Ether on your Kovan account! After that you have your ETH address you need for the .env file
 
 ### Infura
 Infura is a hosted Ethereum node cluster that lets you run your application without requiring them to set up their own Ethereum node or wallet. Register an account [here](https://infura.io/register) and require your API key you need for the .env file!
