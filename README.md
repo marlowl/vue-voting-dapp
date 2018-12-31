@@ -6,7 +6,9 @@
  
 This project was generated with [vue-cli](https://github.com/vuejs/vue-cli) version 3.2.1
 
-An Vue [truffle](https://github.com/trufflesuite/truffle) voting mechanism dApp
+An Vue [truffle](https://github.com/trufflesuite/truffle) voting mechanism dApp.
+
+Sample contract is deployed on the Kovan testnetwork
 
 # Demo
 ![](screenshot.gif)
