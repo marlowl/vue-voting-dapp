@@ -51,7 +51,7 @@
 </template>
 
 <script setup lang="ts">
-import { ref, onMounted, computed } from 'vue';
+import { ref, onMounted } from 'vue';
 import { ethers } from 'ethers';
 import ElectionContract from '../../build/contracts/Election.json';
 
