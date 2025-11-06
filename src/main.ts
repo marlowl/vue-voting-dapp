@@ -1,17 +1,12 @@
-import Vue from 'vue'
+import { createApp } from 'vue'
+import { createPinia } from 'pinia'
 import App from './App.vue'
 import router from './router'
-import store from './store'
-import './registerServiceWorker'
-import Buefy from 'buefy'
-import 'buefy/dist/buefy.css'
+import './assets/main.css'
 
-Vue.use(Buefy)
+const app = createApp(App)
 
-Vue.config.productionTip = false
+app.use(createPinia())
+app.use(router)
 
-new Vue({
-  router,
-  store,
-  render: h => h(App)
-}).$mount('#app')
+app.mount('#app')
